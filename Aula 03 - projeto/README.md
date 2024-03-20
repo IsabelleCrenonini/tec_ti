@@ -1,0 +1,1 @@
+O projeto realizado durante a aula 3 foi um cronograma de planejamento de um churrasco utilizando o software project. 

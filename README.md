@@ -1,2 +1,2 @@
 # tec_ti
-repositório tecnologia de ti testando 123
+Repositório feito para as aulas de Tecnologia em TI. 
